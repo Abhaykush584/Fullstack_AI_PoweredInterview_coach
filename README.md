@@ -139,7 +139,7 @@ Next.js, React, Tailwind CSS, TypeScript, Prisma ORM, PostgreSQL, Clerk, AI inte
 
 Your Name – GitHub Profile
 
-Made with 💗 using React, Next.js, and AI technologies.
+Made with  using React, Next.js, and AI technologies.
 
 
 ---
@@ -155,6 +155,3 @@ This README is **full-fledged**, includes:
 
 ---
 
-If you want, I can also **make a version with a clean “banner, logo, screenshots” section** like a professional GitHub project — perfect for **ATS + recruiters browsing your GitHub**.  
-
-Do you want me to do that next?
